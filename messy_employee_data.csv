@@ -1,0 +1,101 @@
+id,full_name,email,phone,department,join_date,salary,city
+1,Charlie Brown,charlie.brown@email.com,2952492704,Finance,22-11-2019,64172,Jacksonville
+2, Rachel Carter ,.rachel.carter.@email,138-872-7943,Marketing,25-12-2019,68381,Columbus
+3,Charlie Brown,charlie.brown@email,,HR,13-07-2019,56173,Seattle
+4,Laura Hall,laura.hall@email.com,3586790423,IT,08-08-2021,65933,Los Angeles
+5,Mary King,mary.king@email.com,3474841213,Marketing,11-04-2021,54820,Washington
+6,Frank Miller,frank.miller@email,8132334877,IT,16-01-2022,,Dallas
+7, Steve Nelson ,.steve.nelson.@email.com,512-780-0257,Admin,,,Houston
+8,Isaac Clark,isaac.clark@email.com,9237311779,Operations,21-03-2020,,San Francisco
+9, David Allen ,.david.allen.@email.com,7124178455,HR,21-07-2019,,Jacksonville
+10, Karen Thomas ,.karen.thomas.@email.com,755-670-7739,IT,03-07-2019,47496,Jacksonville
+11, Emily Davis ,.emily.davis.@email.com,681-401-6110,HR,06-10-2021,48166,Denver
+12,Ian Taylor,ian.taylor@email.com,3767865953,HR,01-05-2022,61283,New York
+13,Emily Davis,emily.davis@email.com,5535283447,IT,26-10-2020,65219,Fort Worth
+14,Nancy Wright,nancy.wright@email.com,3414662661,Finance,,67991,Phoenix
+15,Patricia Adams,patricia.adams@email.com,024-247-0881,Marketing,22-07-2021,48049,Houston
+16,Larry Scott,larry.scott@email.com,5875848050,IT,21-10-2019,53463,Chicago
+17,John Doe,,8819413205,Marketing,01-11-2021,,Indianapolis
+18, Nina Perez ,.nina.perez.@email.com,3594667980,Marketing,12-07-2019,51636,San Francisco
+19,Kevin Walker,kevin.walker@email.com,,IT,06-10-2019,67562,Dallas
+20,Frank Miller,frank.miller@email.com,5301781395,HR,24-07-2020,59249,Jacksonville
+21, Michael Allen ,.michael.allen.@email.com,771-376-8735,IT,10-04-2019,,San Antonio
+22,Michael Allen,michael.allen@email,682-117-1483,HR,27-08-2020,50786,New York
+23,David Allen,david.allen@email.com,1673757223,IT,04-03-2019,51500,San Francisco
+24, David Allen ,.david.allen.@email.com,074-329-0074,HR,17-06-2021,45882,Jacksonville
+25,Michael Allen,michael.allen@email,1205692983,IT,16-05-2021,,San Jose
+26,Jane Smith,jane.smith@email,,Marketing,14-09-2021,51954,San Antonio
+27,Patricia Adams,patricia.adams@email,828-597-9529,HR,19-05-2021,,Denver
+28,Jack White,jack.white@email.com,065-208-1904,IT,09-11-2019,65943,San Jose
+29,Jack White,jack.white@email,052-004-7872,HR,21-08-2022,,San Antonio
+30,Karen Thomas,karen.thomas@email.com,7524958989,Marketing,25-10-2022,69540,Los Angeles
+31,Grace Lee,grace.lee@email.com,265688968,Operations,,65334,Jacksonville
+32,Helen Martin,,738-001-7127,HR,24-04-2022,58063,Austin
+33,Hannah Moore,hannah.moore@email,,Operations,26-03-2021,53309,Dallas
+34,Isaac Clark,isaac.clark@email.com,878-959-6187,Admin,,,Philadelphia
+35,Eva Young,eva.young@email.com,178-038-1930,Finance,28-08-2020,,Phoenix
+36,Bob Johnson,bob.johnson@email.com,3578449401,Admin,27-04-2021,66649,Austin
+37, Ian Taylor ,.ian.taylor.@email.com,2621982175,Finance,03-12-2021,,Chicago
+38,Steve Nelson,steve.nelson@email.com,682-137-9304,Marketing,28-08-2020,45450,Charlotte
+39,Oscar Green,oscar.green@email.com,733-047-0514,HR,17-09-2021,47737,Seattle
+40,Bob Johnson,bob.johnson@email,580-496-3754,Finance,,,Jacksonville
+41,Charlie Brown,charlie.brown@email,5271183013,Finance,,65975,Charlotte
+42,Nina Perez,,,Operations,01-07-2019,,Washington
+43,Oscar Green,oscar.green@email.com,,Admin,28-06-2020,53962,Houston
+44,Frank Miller,frank.miller@email.com,056-767-7056,IT,09-09-2021,50779,San Francisco
+45,Charlie Brown,charlie.brown@email,3456183058,Operations,01-01-2019,63954,New York
+46,Patricia Adams,patricia.adams@email.com,,Operations,28-12-2022,49534,Denver
+47,Mary King,mary.king@email.com,552-913-6673,IT,28-03-2019,,San Francisco
+48,Charlie Brown,charlie.brown@email.com,532-553-4207,IT,28-07-2020,53759,Austin
+49,David Allen,david.allen@email.com,509-023-2503,Finance,11-06-2019,,Jacksonville
+50,David Allen,david.allen@email.com,9606067229,Finance,06-02-2021,,San Antonio
+51,Michael Allen,michael.allen@email.com,,IT,,62854,Los Angeles
+52, Quentin Baker ,.quentin.baker.@email.com,366-001-1860,HR,21-09-2020,,Fort Worth
+53,Helen Martin,helen.martin@email.com,399535710,Marketing,27-11-2020,,Charlotte
+54,Mary King,,3291481438,IT,28-02-2021,47827,New York
+55,David Allen,,683-841-9298,Admin,06-11-2020,,Denver
+56, Grace Lee ,.grace.lee.@email.com,780-575-6333,Marketing,07-12-2020,,Denver
+57,Laura Hall,,2110487044,Marketing,05-06-2021,,Columbus
+58,Karen Thomas,karen.thomas@email.com,7307634180,HR,,53244,Philadelphia
+59,John Doe,john.doe@email.com,,HR,18-03-2020,,Austin
+60, Ian Taylor ,.ian.taylor.@email.com,444-675-3327,Finance,06-02-2019,51197,Charlotte
+61,Grace Lee,grace.lee@email,3583552949,Finance,22-03-2021,53320,Houston
+62, Emily Davis ,.emily.davis.@email.com,4932524907,IT,22-08-2020,69578,San Jose
+63,Jane Smith,jane.smith@email.com,761-757-0057,IT,03-12-2020,61104,Austin
+64,Karen Thomas,karen.thomas@email.com,9515850202,Finance,15-09-2019,,Washington
+65,Jack White,jack.white@email,7811233254,Finance,05-08-2021,68798,Dallas
+66,John Doe,john.doe@email.com,6987685684,HR,01-08-2019,,Houston
+67,Steve Nelson,steve.nelson@email.com,8377609344,Operations,26-02-2021,54957,New York
+68,Steve Nelson,steve.nelson@email.com,1993214366,IT,02-06-2021,67958,Philadelphia
+69,Frank Miller,frank.miller@email.com,1602173042,IT,20-09-2020,,Seattle
+70,Grace Lee,grace.lee@email.com,,Operations,02-04-2022,64805,San Antonio
+71,Larry Scott,larry.scott@email.com,,Marketing,05-07-2021,48349,Seattle
+72,Alice Williams,alice.williams@email.com,9196881668,Admin,05-02-2020,69069,Washington
+73, Frank Miller ,.frank.miller.@email.com,5748370665,IT,26-03-2020,64855,Seattle
+74,Emily Davis,emily.davis@email.com,751-911-5952,Operations,24-03-2020,,San Diego
+75,Michael Allen,michael.allen@email.com,19741422,Finance,26-06-2019,52533,San Antonio
+76,Rachel Carter,rachel.carter@email.com,213-464-5716,Admin,25-06-2020,,Denver
+77, John Doe ,.john.doe.@email.com,6250139717,HR,20-03-2019,62654,Fort Worth
+78,Karen Thomas,karen.thomas@email.com,153-104-2541,Admin,17-07-2022,68469,New York
+79,Isaac Clark,isaac.clark@email.com,484-540-5649,Admin,12-08-2019,66168,Los Angeles
+80, Michael Allen ,,4973267012,Marketing,,62411,Houston
+81,Jane Smith,jane.smith@email.com,750-726-4431,IT,15-12-2019,,Los Angeles
+82,Karen Thomas,karen.thomas@email.com,7192941509,Finance,06-04-2020,51727,San Jose
+83,Rachel Carter,rachel.carter@email.com,7669938782,Operations,19-02-2022,66724,Columbus
+84,Steve Nelson,steve.nelson@email,513-693-9363,Finance,07-05-2019,58395,Seattle
+85,Frank Miller,frank.miller@email.com,720-852-5956,HR,11-12-2020,,San Antonio
+86,George Harris,george.harris@email.com,5031429408,Operations,,,Seattle
+87,Ian Taylor,ian.taylor@email.com,9338177852,Finance,22-09-2021,,San Jose
+88,Quentin Baker,quentin.baker@email.com,883-251-5848,Finance,24-02-2022,,San Diego
+89,George Harris,george.harris@email.com,1927513570,HR,21-01-2019,,Columbus
+90,Grace Lee,grace.lee@email.com,3620891200,HR,11-05-2019,60076,Indianapolis
+91,Grace Lee,grace.lee@email.com,,Marketing,22-04-2020,45458,Dallas
+92,Quentin Baker,quentin.baker@email.com,8296106930,Admin,13-02-2022,51605,Indianapolis
+93,Grace Lee,grace.lee@email.com,4510357044,Admin,23-01-2019,63257,Columbus
+94,Ian Taylor,ian.taylor@email.com,990-585-5426,Marketing,26-03-2020,48102,Philadelphia
+95,Laura Hall,laura.hall@email,717-646-9846,Marketing,09-02-2022,52811,Jacksonville
+96,David Allen,david.allen@email.com,8942457991,Operations,15-07-2022,67306,Chicago
+97,Grace Lee,grace.lee@email.com,,Admin,06-02-2019,51233,Los Angeles
+98,Helen Martin,helen.martin@email.com,9939918701,Admin,25-06-2019,,Austin
+99,Nina Perez,nina.perez@email.com,287-501-6674,HR,18-01-2020,52648,Chicago
+100,Larry Scott,larry.scott@email.com,723-192-7251,Operations,28-11-2020,46243,Charlotte
